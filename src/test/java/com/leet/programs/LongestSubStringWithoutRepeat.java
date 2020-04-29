@@ -1,4 +1,4 @@
-package com.leet;
+package com.leet.programs;
 
 import java.util.HashSet;
 import java.util.Set;

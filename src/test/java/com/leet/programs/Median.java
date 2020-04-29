@@ -1,4 +1,4 @@
-package com.leet;
+package com.leet.programs;
 
 import java.util.ArrayList;
 import java.util.Collection;

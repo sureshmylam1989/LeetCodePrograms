@@ -1,4 +1,4 @@
-package com.leet;
+package com.leet.programs;
 
 public class ListNode {
 	int d;
